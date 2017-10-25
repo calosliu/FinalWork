@@ -10,10 +10,15 @@
 在URL这个tab下面输入上面的地址，选择本地的目录存放位置，最后clone）
 2. 在Github Desktop上方的current branch中选择develop这个分支
 3. 使用Visual Studio Code打开项目，开始编辑
-4. 编辑完成后再Github Desktop中commit，然后push代码，fetch代码。
-5. !!!如果发现提示有冲突记得找我，我们一起解决，微信或者[发邮件：congliu@thoughtworks.com](mailto:congliu@thoughtworks.com)都行。
+4. 编辑完成后再Github Desktop中commit，commit的summary中格式如下“[你的称呼] 这次修改的梗概”，例如：[Cong] Add README file.
+5. 然后push代码，fetch代码。
+6. !!!如果发现提示有冲突记得找我，我们一起解决，微信或者[发邮件：congliu@thoughtworks.com](mailto:congliu@thoughtworks.com)都行。
 
-———
+
+预览页面地址：https://calosliu.github.io/FinalWork/about.html
+
+__
+
 
 #### 项目结构：
 我们的网站内容全部在/docs目录下  
