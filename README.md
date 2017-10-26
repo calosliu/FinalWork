@@ -4,11 +4,11 @@
 
 因为需要协同工作，所以需要按照一定的流程来管理代码。
 以下是基本的操作流程：
-  
+
 1. 首先使用项目的URL: https://github.com/calosliu/FinalWork.git
 将代码clone到本地。（打开Github Desktop，然后在File下选择clone repository，
 在URL这个tab下面输入上面的地址，选择本地的目录存放位置，最后clone）
-2. 在Github Desktop上方的current branch中选择develop这个分支
+2. 在Github Desktop上方的current branch中选择develop这个分支(!!!一定要切换到develop分支)
 3. 使用Visual Studio Code打开项目，开始编辑
 4. 编辑完成后再Github Desktop中commit，commit的summary中格式如下“[你的称呼] 这次修改的梗概”，例如：[Cong] Add README file.
 5. 然后push代码，fetch代码。
@@ -24,7 +24,7 @@ __
 我们的网站内容全部在/docs目录下  
 网站目前一共有4个页面：homepage，about，blog，contact  
 
-主要的文件： 
+主要的文件：
 1. index.html：homepage主页内容
 2. blog.html：blog页面内容
 3. about.html：about页面内容
